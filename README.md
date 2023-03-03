@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |movement-of-seleted-images-mnist-data             |This repository contains a notebook that shows codes written to move selected images in the mnist dataset.           | https://https://github.com/elvis-darko/movement-of-seleted-images-mnist-data.git    |
-| 2 |Product-sales-data        |This repository contains a notebook that shows the sales data of selected products in a retail shop.         | https://https://github.com/elvis-darko/Product-sales-data.git      |
-| 3 |student_performance--mortality_rate            |This repository contains two a notebook that shows two unrelated analysis            | https://https://github.com/elvis-darko/student_performance--mortality_rate.git      |
+| 1 |movement-of-seleted-images-mnist-data             |This repository contains a notebook that shows codes written to move selected images in the mnist dataset.           | https://github.com/elvis-darko/movement-of-seleted-images-mnist-data.git    |
+| 2 |Product-sales-data        |This repository contains a notebook that shows the sales data of selected products in a retail shop.         | https://github.com/elvis-darko/Product-sales-data.git      |
+| 3 |student_performance--mortality_rate            |This repository contains two a notebook that shows two unrelated analysis            | https://github.com/elvis-darko/student_performance--mortality_rate.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
